@@ -1,6 +1,5 @@
 User-Agent: *
 Allow: /
 
-Sitemap: http://www.askoldova-mohyla.org/sitemap.xml
-Sitemap: http://www.askoldova-mohyla.org/sitemap1.xml
+Sitemap: https://ng.askoldova-mohyla.org//sitemap.xml
 
